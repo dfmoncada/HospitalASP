@@ -16,6 +16,7 @@
             <asp:TextBox ID="txt_psw" runat="server"></asp:TextBox>
             <asp:Button text="login" runat="server" OnClick="login_click"/>
             <asp:Label ID="lbl_error" runat="server" ForeColor="Salmon"></asp:Label>
+
         </div>
         <div id="logout" runat="server" >
             <asp:Label runat="server" ID="lbl_welcome">Welcome </asp:Label>
