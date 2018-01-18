@@ -8,3 +8,13 @@ C:\Users\Great Joaquin\source\repos\doctosCrud\doctosCrud\obj\Debug\doctosCrud.c
 C:\Users\Great Joaquin\source\repos\doctosCrud\doctosCrud\obj\Debug\doctosCrud.csproj.CoreCompileInputs.cache
 C:\Users\Great Joaquin\source\repos\doctosCrud\doctosCrud\obj\Debug\doctosCrud.dll
 C:\Users\Great Joaquin\source\repos\doctosCrud\doctosCrud\obj\Debug\doctosCrud.pdb
+C:\Users\Great Joaquin\Git\HospitalASP\doctosCrud\doctosCrud\bin\doctosCrud.dll.config
+C:\Users\Great Joaquin\Git\HospitalASP\doctosCrud\doctosCrud\bin\doctosCrud.dll
+C:\Users\Great Joaquin\Git\HospitalASP\doctosCrud\doctosCrud\bin\doctosCrud.pdb
+C:\Users\Great Joaquin\Git\HospitalASP\doctosCrud\doctosCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Great Joaquin\Git\HospitalASP\doctosCrud\doctosCrud\bin\Oracle.ManagedDataAccess.dll
+C:\Users\Great Joaquin\Git\HospitalASP\doctosCrud\doctosCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Great Joaquin\Git\HospitalASP\doctosCrud\doctosCrud\obj\Debug\doctosCrud.csprojResolveAssemblyReference.cache
+C:\Users\Great Joaquin\Git\HospitalASP\doctosCrud\doctosCrud\obj\Debug\doctosCrud.csproj.CoreCompileInputs.cache
+C:\Users\Great Joaquin\Git\HospitalASP\doctosCrud\doctosCrud\obj\Debug\doctosCrud.dll
+C:\Users\Great Joaquin\Git\HospitalASP\doctosCrud\doctosCrud\obj\Debug\doctosCrud.pdb

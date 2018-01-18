@@ -20,15 +20,15 @@ namespace doctosCrud.DiegoMoncada
         public void display_content()
         {
             
-            if (Session["username"] != null && form1.Controls.IndexOf(login)!=-1)
+            if (Session["username"] != null)
             {
-                form1.Controls.Add(logout);
-                form1.Controls.Remove(login);
+                logout.Visible = true;
+                login.Visible = false;
             }
             else
             {
-                form1.Controls.Remove(logout);
-                form1.Controls.Add(login);
+                logout.Visible = false;
+                login.Visible = true;
             }
 
         }
